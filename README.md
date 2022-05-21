@@ -1,16 +1,26 @@
 # calculadora
 
-A new Flutter project.
+<h3> Projeto de aplicativo de calculadora feito em flutter/Dart </h3>
 
-## Getting Started
+## Calculadora
 
-This project is a starting point for a Flutter application.
+Esse projeto foi feito utilizando conhecimentos de flutter/dart para fixação de estrutura de código
 
-A few resources to get you started if this is your first Flutter project:
+Foi utilizado conceitos como:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Stateful, scaffold, collum's, row's, text, GestureDetector, Images and Assets, conhecimemento de funções.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design definido ainda não aplicado no aplicativo.
+
+## ANEXO
+
+![calculadora-flutter](https://user-images.githubusercontent.com/81451242/169636651-bc2b7c94-5d16-4d29-bb0f-04925ea55cc2.png)
+
+
+
+
+
+  
+[FLUTTER DOCUMENTAÇÃO](https://docs.flutter.dev/)
+  
+
